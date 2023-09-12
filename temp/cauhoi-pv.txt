@@ -1,0 +1,38 @@
+Java • Micro Services • Restful API • Kafka • Amazon RedShift • MySQL • PostgreSQL • Docker
+
+docker lam gi, tai sao dung odcker, docker compose
+kafka uu diem,
+luong authentication vs authorization
+rest vs restful
+overloading vs overiding
+ke thua
+SQL group by vs select nao chay truoc
+JPA vs hibernate (trang tahi gi)
+tai sao dung spring
+spring vs spring boot (tai sao dung spring so voi framework khac)
+git rebase vs git merge
+string builder vs string buffer
+annotation trong spring de lam gi
+mockito
+differ between array and arraylist, set vs list, map
+view in sql
+SCUM
+
+reactjs prop vs state, redux, nextjs (react js vs angular)
+
+cascade
+git flow vs git join
+martirial view
+localstore vs cookies vs session (tai sao xai cookies)
+join in table
+gabage collector
+kiem niem box vs unbox
+
+AWS LAMBDA,S3
+
+java 17
+design patern
+cho chuoi remove ki tu trung nhau(ke nhau)
+
+OLD PROJECT
+Doing pofolio, project 

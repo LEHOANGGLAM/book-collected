@@ -1,0 +1,30 @@
+As a developer at a software company, my role encompasses a range of responsibilities focused on 
+creating, maintaining, and improving software solutions. I work collaboratively with cross-functional
+ teams to bring ideas from concept to reality and to ensure that our software
+ meets the needs of our users and clients.
+
+
+My name is Lâm, and I'm thrilled to be here interviewing for the software position.
+over the past year, I've had the opportunity to work as a software developer at NashTech company.
+During my time there, I was involved in a range of responsibilities focused on 
+creating, maintaining, and improving software solutions. 
+My experience allowed me to gain hands-on experience with technologies such as Docker, Kafka,
+ and I also had the opportunity to work closely with cross-functional teams to translate 
+user requirements into functional software solutions. 
+
+
+I decided to resign from my previous company because of the circumstances surrounding my role there.
+ My old company was an outsourcing company, which I initially found appealing due to the exposure 
+to different projects and technologies. However, over time, the situation changed. 
+The company faced a shortage of projects, and I found myself on the bench, waiting for a project for about three months. 
+During this time, I felt like I didn't have the opportunity to learn and contribute effectively to the company.
+
+
+	
+Does the company offer any support or reimbursement for employees who want to
+ pursue certifications relevant to their roles?
+
+Are there any tax or legal considerations that remote employees working from 
+Vietnam should be aware of, and does the company provide any guidance or support in this regard?
+
+Will I take holidays in accordance with Vietnam or in accordance with your company as I work remotely?
